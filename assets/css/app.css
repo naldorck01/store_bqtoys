@@ -47,6 +47,10 @@ img{
   font-size: 32px; 
   line-height: 40px;
   margin-top: 25px;
+  column-gap: 16px;
+}
+.products table tbody tr td p {
+  letter-spacing: -0.9px;
 }
 
 .footer {
